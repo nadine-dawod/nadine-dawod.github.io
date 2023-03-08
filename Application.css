@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    margin: 10%;
+}
+
+.header {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100px;
+    align-items: baseline;
+    gap: 10px;
+}
+
+.header img {
+    margin: 25px;
+    padding: 30px;
+    width: 40%;
+    border: 10px solid darkkhaki;
+}
+
+.header p {
+    width: 600px;
+}
+
+
+h1 {
+    color: brown;
+    font-size: 80px;
+    font-weight: bold;
+    text-align:center;
+}
+
+h2 {
+    color: brown;
+    font-size: 25px;
+    margin: 20px;
+}
+
+p {
+    color: black;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 1.5;
+}
